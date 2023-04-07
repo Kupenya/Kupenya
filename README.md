@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Glory Alphonsus
-- 🌱 I’m currently learning Php(Laravel)
-- 💞️ I’m looking to intern as a fullstack developer
+- 🌱 I’m a fullstack developer but backend major
+- 💞️ I’m currently a backend intern
+- ✨Looking to contribute to more open source projects, entry level job and gigs
 - 📫 How to reach me alphonsusgee@gmail.com
 
 <!---
