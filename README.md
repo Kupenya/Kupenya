@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Glory Alphonsus
-- 🌱 I’m a fullstack developer but backend major
-- 💞️ I’m currently a looking for internships/bootcamp opportunities 
+- 🌱 I’m a fullstack developer but backend major 
+- 💞️ I’m currently a looking for entry level job/internship opportunities 
 - ✨Looking to contribute to more open source projects, entry level job and gigs
 - 📫 How to reach me alphonsusgee@gmail.com
 
