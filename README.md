@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Glory Alphonsus
-- 🌱 I’m a fullstack developer but backend major 
-- 💞️ I’m currently a looking for entry level job/internship opportunities 
-- ✨Looking to contribute to more open source projects, entry level job and gigs
+- 🌱 I’m a backend developer and I can center a div
+- 💞️ I’m currently a available to work - hire me
+- ✨Looking to contribute to more open source projects, link me up
 - 📫 How to reach me alphonsusgee@gmail.com
 
 <!---
